@@ -1,0 +1,21 @@
+{
+  "name": "cypresspractice",
+  "version": "1.0.0",
+  "description": "test cypress functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sami",
+    "test"
+  ],
+  "author": "sami ullah",
+  "license": "ISC",
+  "dependencies": {
+    "check-broken-links": "^2.0.4",
+    "cheerio": "^1.0.0-rc.3",
+    "console.table": "^0.10.0",
+    "cypress": "^5.3.0"
+  }
+}
